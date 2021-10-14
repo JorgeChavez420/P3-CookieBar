@@ -1,0 +1,43 @@
+.CookiesBar {
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    z-index: 100px;   
+}
+.CookiesBar {
+    line-height: 24px;
+    color: gold;
+    text-align: center;
+    padding: 3px 0;
+    width: 100%;
+    color: gold;
+    background-color: #444;
+    
+}
+.Cookies {
+    border-radius: 10%;
+    margin-left: 100px;
+    color: white;
+    padding: 5px;   
+    border-radius: 10%;
+    font-family: serif;
+    text-decoration: none;
+    transition: .3s background-color;
+}
+.Cookies:hover {
+    background-color: gold;
+}
+.Politicas {
+    border-radius: 10%;
+    margin-left: 100px;
+    color: white;
+    padding: 5px;   
+    border-radius: 10%;
+    font-family: serif;
+    text-decoration: none;
+    transition: .3s background-color;
+}
+
+.Politicas:hover {
+    background-color: gold;
+}        
